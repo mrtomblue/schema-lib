@@ -2,5 +2,10 @@
     "name": "@schema-lib/tsconfig",
     "version": "0.0.0",
     "description": "Json Schema for tsconfig.json files",
-    "license": "MIT"
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mrtomblue/schema-lib.git",
+        "directory": "packages/tsconfig"
+    }
 }
