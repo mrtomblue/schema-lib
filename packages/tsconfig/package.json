@@ -1,0 +1,6 @@
+{
+    "name": "@schema-lib/tsconfig",
+    "version": "0.0.0",
+    "description": "Json Schema for tsconfig.json files",
+    "license": "MIT"
+}
